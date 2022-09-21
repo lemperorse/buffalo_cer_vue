@@ -34,7 +34,7 @@
     "vue-notification": "^1.3.20",
     "vue-router": "^3.2.0",
     "vue2-google-maps": "^0.10.7",
-    "vuetify": "^2.3.14",
+    "vuetify": "^2.6.10",
     "vuex": "^3.4.0",
     "vuex-pathify": "^1.4.1",
     "xmodal-vue": "^1.0.5"
